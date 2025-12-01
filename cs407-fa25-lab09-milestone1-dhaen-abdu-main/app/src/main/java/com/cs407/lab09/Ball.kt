@@ -101,4 +101,4 @@ class Ball(
         accY = 0f
         isFirstUpdate = true
     }
-}
+} //done milestone 1

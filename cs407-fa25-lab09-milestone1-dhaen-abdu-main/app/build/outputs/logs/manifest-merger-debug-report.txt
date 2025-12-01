@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\alney\.gradle\caches\8.13\transforms\90c1df8dbaee76ed4245be0e714da592\transformed\material3-release\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\alney\.gradle\caches\8.13\transforms\f6b4524f3005fbe5b0b1248616e29abc\transformed\material-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\alney\.gradle\caches\8.13\transforms\a04924934bef4133b7b6f25daca187df\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
@@ -64,8 +64,8 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\alney\.gradle\cache
 	xmlns:android
 		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:7:5-27:19
-INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:7:5-27:19
+ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:5:5-29:19
+INJECTED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\alney\.gradle\caches\8.13\transforms\7682dd168e189a3f59b265c50e911e59\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\alney\.gradle\caches\8.13\transforms\7682dd168e189a3f59b265c50e911e59\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\alney\.gradle\caches\8.13\transforms\e045ca48c5d053e289c0caee12d2e868\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:22:5-26:19
@@ -87,37 +87,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\al
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.17.0] C:\Users\alney\.gradle\caches\8.13\transforms\e4d9df7ebe2f42b882fdf9fd4156e219\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:13:9-43
 	android:dataExtractionRules
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:9:9-65
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.cs407.lab09.MainActivity
-ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:16:9-26:20
+ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:15:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:20:13-49
 	android:label
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:18:13-45
 	android:exported
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:20:13-47
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:19:13-47
 	android:name
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
 ADDED from C:\Users\alney\Downloads\lab9\cs407-fa25-lab09-milestone1-dhaen-abdu-main\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
